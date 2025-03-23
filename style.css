@@ -1,0 +1,12 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+p{
+    background-color: rgb(241, 220, 205);
+    font-weight: bold;
+    font-size: 20px;
+}
